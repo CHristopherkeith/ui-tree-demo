@@ -1,0 +1,17 @@
+{
+	"stage":{
+		"name":"XX",
+		"description":"XX",
+		"nodeType":"XX"
+	},
+
+	"taskSet":{
+		"name":"XX",
+		"type":"XX",
+		"description":"XX"
+	},
+
+	"task":{
+		
+	}
+}
